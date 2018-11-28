@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1542592394 source:c:\users\usuario\documents\intento4\src\punto.cpp
+	"Punto.h"
+
+1542592476 c:\users\usuario\documents\intento4\include\punto.h
+
+1543332003 source:c:\users\usuario\documents\intento4\main.cpp
+	<iostream>
+	"Punto.h"
+	"Player.h"
+	"Info.h"
+	"Tanken.h"
+	<allegro.h>
+	<allegro.h>
+	"Personaje.h"
+	"Bala.h"
+
+1543332405 source:c:\users\usuario\documents\intento4\src\player.cpp
+	"Player.h"
+	"Punto.h"
+	"Bala.h"
+	<allegro.h>
+
+1543332405 c:\users\usuario\documents\intento4\include\player.h
+	"Punto.h"
+	"Bala.h"
+	<allegro.h>
+	<allegro.h>
+
+1543333573 c:\users\usuario\documents\intento4\include\info.h
+	<allegro.h>
+
+1543333576 source:c:\users\usuario\documents\intento4\src\info.cpp
+	"Info.h"
+	<allegro.h>
+
+1543331978 c:\users\usuario\documents\intento4\include\tank-e.h
+
+1543330210 source:c:\users\usuario\documents\intento4\src\tank-e.cpp
+	"Tank-e.h"
+	"Player.h"
+
+1543328742 source:c:\users\usuario\documents\intento4\include\tank-e.h
+	<allegro.h>
+	"Player.h"
+	"Punto.h"
+	"Bala.h"
+
+1543331213 c:\users\usuario\documents\intento4\include\bala.h
+	"Tank-e.h"
+	"Player.h"
+	<allegro.h>
+
+1543331213 source:c:\users\usuario\documents\intento4\src\bala.cpp
+	"bala.h"
+	"per.h"
+	<allegro.h>
+
+1543332105 c:\users\usuario\documents\intento4\include\tanken.h
+	<allegro.h>
+	"Player.h"
+	"Punto.h"
+	"Bala.h"
+
+1543332107 source:c:\users\usuario\documents\intento4\src\tanken.cpp
+	"Tanken.h"
+	"Player.h"
+

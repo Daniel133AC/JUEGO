@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1542126422 source:c:\users\usuario\documents\juego\main.cpp
+	<iostream>
+	<allegro.h>
+	"Personaje.h"
+	"Bala.h"
+
+1542560378 source:c:\users\usuario\documents\juego\src\personaje.cpp
+	"Personaje.h"
+	"Bala.h"
+	<allegro.h>
+
+1542560378 c:\users\usuario\documents\juego\include\personaje.h
+	<allegro.h>
+
+1542126347 source:c:\users\usuario\documents\juego\src\bala.cpp
+	"Bala.h"
+	"Personaje.h"
+	<allegro.h>
+	<iostream>
+
+1542560149 c:\users\usuario\documents\juego\include\bala.h
+	"Personaje.h"
+
+1542203640 source:c:\users\usuario\documents\juego\src\balac.cpp
+	"BalaC.h"
+
+1542203640 c:\users\usuario\documents\juego\include\balac.h
+
